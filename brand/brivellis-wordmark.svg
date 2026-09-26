@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="3473.500" height="900.000" viewBox="0 0 3473.500 900.000" role="img" aria-labelledby="title desc">
+  <title id="title">brivellis standalone wordmark</title>
+  <desc id="desc">Lowercase standalone brivellis wordmark.</desc>
+  <defs>
+      <linearGradient id="logo-word-dark" gradientUnits="userSpaceOnUse" x1="60" y1="0" x2="3413.500" y2="0">
+        <stop offset="0" stop-color="#F2F8FF"/>
+        <stop offset="0.62" stop-color="#DCEEFF"/>
+        <stop offset="1" stop-color="#78DFFF"/>
+      </linearGradient>
+      <linearGradient id="logo-word-light" gradientUnits="userSpaceOnUse" x1="60" y1="0" x2="3413.500" y2="0">
+        <stop offset="0" stop-color="#050A13"/>
+        <stop offset="0.68" stop-color="#168BFF"/>
+        <stop offset="1" stop-color="#0089B8"/>
+      </linearGradient>
+      <linearGradient id="logo-accent" x1="0" x2="1">
+        <stop offset="0" stop-color="#168BFF"/>
+        <stop offset="1" stop-color="#00D7FF"/>
+      </linearGradient>
+    </defs>
+  
+  <g>
+    <path d="M636 -30Q484 -30 380.0 45.5Q276 121 222.5 250.5Q169 380 169 541Q169 704 222.5 833.0Q276 962 380.5 1036.0Q485 1110 637 1110Q787 1110 895.5 1035.5Q1004 961 1062.0 832.0Q1120 703 1120 541Q1120 379 1062.0 250.0Q1004 121 895.5 45.5Q787 -30 636 -30ZM139 0V1440H318V795H298V0ZM614 133Q721 133 791.0 187.0Q861 241 896.0 333.5Q931 426 931 541Q931 655 896.5 747.0Q862 839 790.5 893.0Q719 947 609 947Q504 947 435.0 895.5Q366 844 332.0 752.5Q298 661 298 541Q298 423 331.5 330.5Q365 238 435.0 185.5Q505 133 614 133Z" transform="translate(60.000 800.000) scale(0.500000 -0.500000)" fill="url(#logo-word-dark)"/>
+    <path d="M140 0V1080H299V819L273 853Q292 903 322.5 945.0Q353 987 391 1014Q433 1048 486.0 1066.0Q539 1084 594.0 1087.5Q649 1091 697 1080V913Q641 928 574.0 921.0Q507 914 450 872Q398 835 369.5 782.0Q341 729 330.0 667.5Q319 606 319 542V0Z" transform="translate(630.000 800.000) scale(0.500000 -0.500000)" fill="url(#logo-word-dark)"/>
+    <path d="M160 1271V1455H338V1271ZM160 0V1080H338V0Z" transform="translate(973.500 800.000) scale(0.500000 -0.500000)" fill="url(#logo-word-dark)"/>
+    <path d="M432 0 40 1080H220L523 227L825 1080H1006L614 0Z" transform="translate(1192.500 800.000) scale(0.500000 -0.500000)" fill="url(#logo-word-dark)"/>
+    <path d="M608 -30Q449 -30 330.5 40.5Q212 111 146.0 237.5Q80 364 80 533Q80 710 145.0 839.5Q210 969 326.5 1039.5Q443 1110 600 1110Q763 1110 877.5 1035.0Q992 960 1049.5 821.0Q1107 682 1099 490H919V554Q916 753 838.0 851.5Q760 950 606 950Q441 950 355.0 844.0Q269 738 269 540Q269 349 355.0 244.0Q441 139 600 139Q707 139 786.0 188.0Q865 237 910 329L1081 270Q1018 127 891.5 48.5Q765 -30 608 -30ZM209 490V633H1007V490Z" transform="translate(1665.500 800.000) scale(0.500000 -0.500000)" fill="url(#logo-word-dark)"/>
+    <path d="M160 0V1470H338V0Z" transform="translate(2226.000 800.000) scale(0.500000 -0.500000)" fill="url(#logo-word-dark)"/>
+    <path d="M160 0V1470H338V0Z" transform="translate(2445.000 800.000) scale(0.500000 -0.500000)" fill="url(#logo-word-dark)"/>
+    <path d="M160 1271V1455H338V1271ZM160 0V1080H338V0Z" transform="translate(2664.000 800.000) scale(0.500000 -0.500000)" fill="url(#logo-word-dark)"/>
+    <path d="M548 -29Q355 -29 231.5 55.5Q108 140 80 292L262 321Q284 233 363.0 181.5Q442 130 559 130Q670 130 733.0 176.0Q796 222 796 301Q796 347 775.0 375.5Q754 404 688.5 429.0Q623 454 491 489Q348 527 266.0 568.0Q184 609 149.0 663.0Q114 717 114 794Q114 889 166.0 960.5Q218 1032 311.5 1071.0Q405 1110 529 1110Q652 1110 749.0 1071.0Q846 1032 905.5 960.5Q965 889 976 794L794 761Q781 848 710.5 898.0Q640 948 529 951Q424 955 358.5 914.0Q293 873 293 803Q293 764 317.5 736.0Q342 708 408.5 683.0Q475 658 602 626Q745 590 827.5 547.5Q910 505 945.0 447.5Q980 390 980 306Q980 150 865.0 60.5Q750 -29 548 -29Z" transform="translate(2883.000 800.000) scale(0.500000 -0.500000)" fill="url(#logo-word-dark)"/>
+  </g>
+</svg>

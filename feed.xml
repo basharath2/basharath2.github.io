@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Brivellis Insights</title>
+    <link>https://brivellis.com/insights/</link>
+    <description>Practical insights on technology, cybersecurity and AI governance, with a GCC lens.</description>
+    <item>
+      <title>Resilience is an executive capability</title>
+      <link>https://brivellis.com/insights/executive-resilience/</link>
+      <description>Why recovery plans are not enough, and how leaders can make resilience part of everyday technology governance.</description>
+      <pubDate>Sat, 01 Aug 2026 00:00:00 GMT</pubDate>
+      <guid>https://brivellis.com/insights/executive-resilience/</guid>
+    </item>
+    <item>
+      <title>Responsible AI begins with operating clarity</title>
+      <link>https://brivellis.com/insights/responsible-ai-clarity/</link>
+      <description>The essential decisions organizations need before AI pilots become scaled capability.</description>
+      <pubDate>Sat, 01 Aug 2026 00:00:00 GMT</pubDate>
+      <guid>https://brivellis.com/insights/responsible-ai-clarity/</guid>
+    </item>
+    <item>
+      <title>Why technology transformations lose momentum</title>
+      <link>https://brivellis.com/insights/transformation-momentum/</link>
+      <description>Five patterns that quietly separate ambition from execution—and the leadership moves that reconnect them.</description>
+      <pubDate>Sat, 01 Aug 2026 00:00:00 GMT</pubDate>
+      <guid>https://brivellis.com/insights/transformation-momentum/</guid>
+    </item>
+  </channel>
+</rss>
