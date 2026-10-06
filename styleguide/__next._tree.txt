@@ -1,0 +1,5 @@
+:HL["/_next/static/chunks/0xafdp8nmvn1a.css","style"]
+:HL["/_next/static/chunks/1o0qfc_vh4gsh.css","style"]
+:HL["/_next/static/chunks/066b65whwgets.css","style"]
+:HL["/fonts/Manrope-VariableFont_wght.ttf","font",{"crossOrigin":"anonymous","type":"font/ttf"}]
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"styleguide","param":null,"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"4_30Ah9Vpq1ZTppOFdNcN"}
