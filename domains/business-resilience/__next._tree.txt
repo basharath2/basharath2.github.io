@@ -1,0 +1,8 @@
+:HL["/_next/static/chunks/0dlrs19l3445f.css","style"]
+:HL["/_next/static/chunks/3ys4dd_bu3uul.css","style"]
+:HL["/_next/static/chunks/21h_-9z36kr76.css","style"]
+:HL["/fonts/Manrope-VariableFont_wght.ttf","font",{"crossOrigin":"anonymous","type":"font/ttf"}]
+3:[["children",{"s":"__PAGE__","h":160}]]
+2:[["children",{"s":{"n":"slug","t":"d","k":"business-resilience","s":[]},"h":65632,"c":"$Q3"}]]
+1:[["children",{"s":"domains","h":131168,"c":"$Q2"}]]
+0:{"b":"9rKC6yHQ1AIEYDOrl97BR","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}

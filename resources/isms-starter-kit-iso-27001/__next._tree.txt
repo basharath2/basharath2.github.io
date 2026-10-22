@@ -1,0 +1,9 @@
+:HL["/_next/static/chunks/0dlrs19l3445f.css","style"]
+:HL["/_next/static/chunks/3ys4dd_bu3uul.css","style"]
+:HL["/_next/static/chunks/21h_-9z36kr76.css","style"]
+:HL["/_next/static/chunks/3mwghwq2m5-8i.css","style"]
+:HL["/fonts/Manrope-VariableFont_wght.ttf","font",{"crossOrigin":"anonymous","type":"font/ttf"}]
+3:[["children",{"s":"__PAGE__","h":160}]]
+2:[["children",{"s":"isms-starter-kit-iso-27001","h":96,"c":"$Q3"}]]
+1:[["children",{"s":"resources","h":96,"c":"$Q2"}]]
+0:{"b":"9rKC6yHQ1AIEYDOrl97BR","t":{"t":{"s":"","h":80,"c":"$Q1"}}}

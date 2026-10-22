@@ -1,0 +1,49 @@
+1:"$Sreact.fragment"
+2:"/_next/static/chunks/0umf92h1sb77c.js"
+3:I[39756,["$2"],"default"]
+4:I[37457,["$2"],"default"]
+d:I[47257,["$2"],"ClientPageRoot"]
+e:"/_next/static/chunks/1o09echvc66vw.js"
+f:"/_next/static/chunks/08s4cbt87g1h7.js"
+10:I[81861,["$2","$e","$f"],"default"]
+13:I[97367,["$2"],"OutletBoundary"]
+14:"$Sreact.suspense"
+17:"ViewportBoundary"
+18:I[97367,["$2"],"$17"]
+19:"MetadataBoundary"
+1a:I[97367,["$2"],"$19"]
+:HL["/_next/static/chunks/0dlrs19l3445f.css","style"]
+:HL["/fonts/Manrope-VariableFont_wght.ttf","font",{"crossOrigin":"anonymous","type":"font/ttf"}]
+:HL["/_next/static/chunks/21h_-9z36kr76.css","style"]
+:HL["/_next/static/chunks/3ys4dd_bu3uul.css","style"]
+6:X
+9:X
+9:C
+c:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[["$","$Ld",null,{"Component":"$10","serverProvidedParams":{"searchParams":{},"params":{},"promises":["$@11","$@12"]}}],[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/21h_-9z36kr76.css","precedence":"next"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/chunks/3ys4dd_bu3uul.css","precedence":"next"}],["$","script","script-0",{"src":"/_next/static/chunks/1o09echvc66vw.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/08s4cbt87g1h7.js","async":true}]],["$","$L13",null,{"children":["$","$14",null,{"name":"Next.MetadataOutlet","children":"$@15"}]}]]}],"p":"$@16","v":null,"s":"$6"}}]]
+a:[["children",{"s":"readiness-assessment","h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","template":["$","$L4",null,{}]}]]}],"p":"$@b","v":"$9","s":"$6"},"c":"$Qc"}]]
+7:[["children",{"s":"resources","h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","template":["$","$L4",null,{}]}]]}],"p":"$@8","v":"$9","s":"$6"},"c":"$Qa"}]]
+0:{"t":{"t":{"s":"","h":80,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0dlrs19l3445f.css","precedence":"next"}],["$","script","script-0",{"src":"/_next/static/chunks/0umf92h1sb77c.js","async":true}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[["$","link",null,{"rel":"preload","href":"/fonts/Manrope-VariableFont_wght.ttf","as":"font","type":"font/ttf","crossOrigin":"anonymous"}],["$","script",null,{"defer":true,"src":"https://cloud.umami.is/script.js","data-website-id":"f59521c8-0269-4724-b87f-2716aeaaabfe","data-domains":"brivellis.com","data-do-not-track":"true"}]]}],["$","body",null,{"children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Organization\",\"name\":\"Brivellis\",\"legalName\":\"Brivellis Technologies FZE LLC\",\"url\":\"https://brivellis.com\",\"logo\":\"https://brivellis.com/brand/brivellis-wordmark.svg\",\"email\":\"hello@brivellis.com\",\"address\":{\"@type\":\"PostalAddress\",\"streetAddress\":\"BC-894147, 26th Floor, Amber Gem Tower\",\"addressLocality\":\"Ajman\",\"addressCountry\":\"AE\"},\"identifier\":{\"@type\":\"PropertyValue\",\"propertyID\":\"UAE Free Zone Licence\",\"value\":\"2621220915888\"},\"knowsAbout\":[\"IT Service Management\",\"Cybersecurity & Compliance\",\"Business Resilience\",\"Governance & Risk\"],\"sameAs\":[\"https://www.linkedin.com/company/brivellis\",\"https://x.com/brivellishq\",\"https://www.instagram.com/brivellis\",\"https://www.youtube.com/@brivellis\",\"https://www.tiktok.com/@brivellis\",\"https://www.snapchat.com/add/brivellishq\"]}"}}],["$","$L3",null,{"parallelRouterKey":"children","template":["$","$L4",null,{}],"notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]]}]]}]]}]]}],"p":"$@5","v":null,"s":"$6"},"c":"$Q7"},"h":{"r":["$","$1","h",{"children":[null,["$","$L18",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#050A13"}],["$","meta","3",{"name":"color-scheme","content":"dark light"}]]}],["$","$L1a",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$14",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Brivellis | Insights and free tools for technology, security and AI"}],["$","meta","1",{"name":"description","content":"Practical insights, free kits and tools for IT Service Management, Cybersecurity & Compliance, Business Resilience and Governance & Risk."}],["$","link","2",{"rel":"manifest","href":"/manifest.webmanifest"}],["$","link","3",{"rel":"alternate","type":"application/rss+xml","href":"https://brivellis.com/feed.xml","title":"Brivellis Insights"}],["$","meta","4",{"property":"og:title","content":"brivellis | From Vision to Value. Together."}],["$","meta","5",{"property":"og:description","content":"Practical insights and free tools on IT Service Management, Cybersecurity & Compliance, Business Resilience and Governance & Risk."}],["$","meta","6",{"property":"og:image","content":"https://brivellis.com/og.png"}],["$","meta","7",{"property":"og:image:width","content":"1200"}],"$L1b","$L1c","$L1d","$L1e","$L1f","$L20","$L21","$L22","$L23","$L24","$L25"]}]}],null]}],null]}],"p":"$@26","v":null,"s":"$6"}},"a":"$@27","u":"$@28","b":"9rKC6yHQ1AIEYDOrl97BR"}
+29:I[27201,["$2"],"IconMark"]
+11:{}
+12:"$c:0:1:d:r:props:children:0:props:serverProvidedParams:params"
+15:null
+1b:["$","meta","8",{"property":"og:image:height","content":"630"}]
+1c:["$","meta","9",{"property":"og:image:alt","content":"brivellis - From Vision to Value. Together."}]
+1d:["$","meta","10",{"property":"og:type","content":"website"}]
+1e:["$","meta","11",{"name":"twitter:card","content":"summary_large_image"}]
+1f:["$","meta","12",{"name":"twitter:title","content":"brivellis | From Vision to Value. Together."}]
+20:["$","meta","13",{"name":"twitter:description","content":"Practical insights and free tools on IT Service Management, Cybersecurity & Compliance, Business Resilience and Governance & Risk."}]
+21:["$","meta","14",{"name":"twitter:image","content":"https://brivellis.com/og.png"}]
+22:["$","link","15",{"rel":"icon","href":"/favicon.ico?favicon.0m7ql2r4wud1j.ico","sizes":"48x48","type":"image/x-icon"}]
+23:["$","link","16",{"rel":"icon","href":"/icon.svg?icon.0v_fnao-vofe2.svg","sizes":"any","type":"image/svg+xml"}]
+24:["$","link","17",{"rel":"apple-touch-icon","href":"/apple-icon.png?apple-icon.14h0c3ey5qsqm.png","sizes":"180x180","type":"image/png"}]
+25:["$","$L29","18",{}]
+6:300
+28:true
+6:C
+27:0
+b:"$undefined"
+8:"$undefined"
+5:"$undefined"
+26:"$undefined"
+16:"$undefined"
