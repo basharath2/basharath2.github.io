@@ -1,0 +1,49 @@
+# Brivellis
+
+> Brivellis publishes free, editable templates, free video courses, self-assessment tools and practical articles for IT service management, cybersecurity and compliance, business resilience, and governance and risk. Every kit includes a worked example for each template. No sign-up is needed for any download.
+
+Brivellis Technologies FZE LLC is an independent company. It is not affiliated with, endorsed by or licensed by ISO, IEC, NIST or PeopleCert. Standards are referenced by their designation and described in our own words; they are not reproduced. ITIL® is a registered trade mark of the PeopleCert group. The material is templates and education, not audit, certification or legal advice.
+
+## Domains
+
+- [IT Service Management](https://brivellis.com/domains/it-service-management/): Running IT services well, from ITIL® practices to an ISO/IEC 20000-1 service management system.
+- [Cybersecurity & Compliance](https://brivellis.com/domains/cybersecurity-compliance/): Building and evidencing a security programme that auditors and regulators can follow.
+- [Business Resilience](https://brivellis.com/domains/business-resilience/): Keeping critical services running through disruption, from impact analysis to recovery.
+- [Governance & Risk](https://brivellis.com/domains/governance-risk/): How organisations decide, prioritise and stay in control as technology changes.
+
+## Free kits
+
+- [SMS Starter Kit for ISO/IEC 20000-1](https://brivellis.com/resources/iso-20000-starter-kit/): 17 editable files, with a worked example for every template, for a service management system.
+- [Cybersecurity Awareness Programme Kit](https://brivellis.com/resources/cybersecurity-awareness-kit/): 11 free, editable files for a planned security awareness programme, with the five pieces of evidence auditors ask for.
+- [BCMS Starter Kit for ISO 22301](https://brivellis.com/resources/bcms-starter-kit-iso-22301/): 14 free, editable files for an ISO 22301 BCMS, from business impact analysis to tested plans, with RTO and RPO checks built in.
+- [ISMS Starter Kit for ISO/IEC 27001:2022](https://brivellis.com/resources/isms-starter-kit-iso-27001/): 13 free, editable files for an ISO/IEC 27001:2022 ISMS, from scope to management review, with a 93-control SoA and a NIST CSF 2.0 crosswalk.
+
+## Free templates
+
+- [Acceptable Use Policy](https://github.com/brivellis/free-templates/releases/download/aup-v1.0/Brivellis_Acceptable_Use_Policy_Template_v1.0.docx): One editable Word policy for devices, email, cloud, remote work and AI assistants, with a signed acknowledgement form.
+- [ISO/IEC 20000-1 readiness checklist](https://github.com/brivellis/free-templates/releases/download/checklists-v1.0/Brivellis_Readiness_Checklist_ISO20000-1_v1.0.xlsx): One Excel workbook to check your service management system against clauses 4 to 10, with evidence, owner and a % ready heat map.
+- [ISO/IEC 27001 readiness checklist](https://github.com/brivellis/free-templates/releases/download/checklists-v1.0/Brivellis_Readiness_Checklist_ISO27001-2022_v1.0.xlsx): Clauses 4 to 10 and all 93 Annex A controls in one Excel workbook, with the evidence auditors ask for and a % ready heat map.
+- [ISO 22301 readiness checklist](https://github.com/brivellis/free-templates/releases/download/checklists-v1.0/Brivellis_Readiness_Checklist_ISO22301_v1.0.xlsx): Check your business continuity management system against clauses 4 to 10 in one Excel workbook, with evidence and a % ready heat map.
+- [NIST CSF 2.0 readiness checklist](https://github.com/brivellis/free-templates/releases/download/checklists-v1.0/Brivellis_Readiness_Checklist_NIST-CSF-2.0_v1.0.xlsx): All 106 NIST CSF 2.0 outcomes in one Excel workbook, with status, maturity, evidence and a % ready heat map.
+
+## Free courses
+
+- [SMS in Practice: Implementing ISO/IEC 20000-1 (Free Course)](https://www.youtube.com/playlist?list=PLVQEEboJlIDI): A free video course that walks through the kit, template by template.
+- [ISMS in Practice: Implementing ISO/IEC 27001:2022 (Free Course)](https://www.youtube.com/playlist?list=PLIxmkmdCRYPk): A free video course that walks through the ISMS kit, template by template.
+- [BCMS in Practice: Implementing ISO 22301 with AI (Free Course)](https://www.youtube.com/playlist?list=PLYr1dJPVD9cI): A free video course that walks through the BCMS kit, template by template.
+
+## Free tools
+
+- [Technology Readiness Check](https://brivellis.com/resources/readiness-assessment/): Assess strategic alignment, foundations, governance, delivery, skills, and measurement.
+- [Initiative Prioritizer](https://brivellis.com/resources/initiative-prioritizer/): Compare three technology initiatives using value, urgency, confidence, effort, and risk.
+
+## Guides
+
+- [From Vision to Value](https://brivellis.com/downloads/brivellis-from-vision-to-value.pdf): A practical framework for connecting technology ambition, delivery, governance, and measurable outcomes.
+- [Seven Decisions Before Scaling AI](https://brivellis.com/downloads/brivellis-seven-decisions-before-scaling-ai.pdf): An executive guide to ownership, value, data, risk, operating model, adoption, and measurement.
+- [Operational Resilience Leadership Playbook](https://brivellis.com/downloads/brivellis-operational-resilience-playbook.pdf): A structured approach to critical services, dependencies, scenarios, recovery, and continuous learning.
+
+## Articles
+
+- [All insights](https://brivellis.com/insights/) (RSS: https://brivellis.com/feed.xml)
+- [Responsible AI Charter](https://brivellis.com/responsible-ai/): how Brivellis uses AI and how the kits record AI help.
