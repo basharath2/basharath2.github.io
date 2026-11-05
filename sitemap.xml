@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>https://brivellis.com/</loc>
-<lastmod>2026-11-02</lastmod>
+<lastmod>2026-11-06</lastmod>
 </url>
 <url>
 <loc>https://brivellis.com/domains/</loc>
@@ -10,7 +10,7 @@
 </url>
 <url>
 <loc>https://brivellis.com/insights/</loc>
-<lastmod>2026-11-02</lastmod>
+<lastmod>2026-11-06</lastmod>
 </url>
 <url>
 <loc>https://brivellis.com/resources/</loc>
@@ -70,7 +70,7 @@
 </url>
 <url>
 <loc>https://brivellis.com/domains/it-service-management/</loc>
-<lastmod>2026-11-02</lastmod>
+<lastmod>2026-11-06</lastmod>
 </url>
 <url>
 <loc>https://brivellis.com/domains/cybersecurity-compliance/</loc>
@@ -87,6 +87,10 @@
 <url>
 <loc>https://brivellis.com/responsible-ai/</loc>
 <lastmod>2026-10-21</lastmod>
+</url>
+<url>
+<loc>https://brivellis.com/insights/falcon-ridge-service-catalogue-worked-example/</loc>
+<lastmod>2026-11-06</lastmod>
 </url>
 <url>
 <loc>https://brivellis.com/insights/iso-20000-scope-statement-worked-example/</loc>

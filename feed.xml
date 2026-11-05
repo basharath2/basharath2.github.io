@@ -6,7 +6,15 @@
     <atom:link href="https://brivellis.com/feed.xml" rel="self" type="application/rss+xml" />
     <description>Practical insights and The Brivellis Briefing on IT Service Management, Cybersecurity &amp; Compliance, Business Resilience and Governance &amp; Risk, for teams worldwide.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 05 Nov 2026 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 00:00:00 GMT</lastBuildDate>
+    <item>
+      <title>Worked example: a service catalogue an auditor can trace</title>
+      <link>https://brivellis.com/insights/falcon-ridge-service-catalogue-worked-example/</link>
+      <description>A fictional worked example: how Falcon Ridge turned an eleven-line list of “services” into an ISO/IEC 20000-1 service catalogue an auditor can trace.</description>
+      <category>IT Service Management</category>
+      <pubDate>Fri, 06 Nov 2026 00:00:00 GMT</pubDate>
+      <guid>https://brivellis.com/insights/falcon-ridge-service-catalogue-worked-example/</guid>
+    </item>
     <item>
       <title>The Brivellis Briefing, Issue 1 · 5 November 2026: AI governance and security: one system, not three projects</title>
       <link>https://brivellis.com/newsletter/issue-01/</link>
