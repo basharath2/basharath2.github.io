@@ -1,7 +1,7 @@
-:HL["/_next/static/chunks/0ivrvsdl9-qs2.css","style"]
+:HL["/_next/static/chunks/1u4xy_sfls0i8.css","style"]
 :HL["/_next/static/chunks/07ycjw2ny9y6i.css","style"]
 :HL["/_next/static/chunks/2wccxvxwi248u.css","style"]
 :HL["/fonts/Manrope-VariableFont_wght.ttf","font",{"crossOrigin":"anonymous","type":"font/ttf"}]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"newsletter","h":96,"c":"$Q2"}]]
-0:{"b":"lS_kzt7jfZIPyqtcJJX5b","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"Muq0FFaOvIyIpIPG5GTyo","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
