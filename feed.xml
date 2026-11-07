@@ -6,7 +6,23 @@
     <atom:link href="https://brivellis.com/feed.xml" rel="self" type="application/rss+xml" />
     <description>Practical insights and The Brivellis Briefing on IT Service Management, Cybersecurity &amp; Compliance, Business Resilience and Governance &amp; Risk, for teams worldwide.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 06 Nov 2026 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 00:00:00 GMT</lastBuildDate>
+    <item>
+      <title>ISO/IEC 42001 certification: what it is, how it works, and how to get ready</title>
+      <link>https://brivellis.com/insights/iso-42001-certification/</link>
+      <description>What ISO/IEC 42001 certification is, how the audit path works, what drives cost and time, and a free readiness check. Plain English, no sign-up.</description>
+      <category>Governance &amp; Risk</category>
+      <pubDate>Sat, 07 Nov 2026 00:00:00 GMT</pubDate>
+      <guid>https://brivellis.com/insights/iso-42001-certification/</guid>
+    </item>
+    <item>
+      <title>ISO/IEC 42001 implementation: what the standard asks for, in the order you&apos;ll build it</title>
+      <link>https://brivellis.com/insights/iso-42001-implementation-build-order/</link>
+      <description>How to implement ISO/IEC 42001 step by step: find your AI, set scope and policy, assess risk and impact, build the Statement of Applicability, then check.</description>
+      <category>Governance &amp; Risk</category>
+      <pubDate>Sat, 07 Nov 2026 00:00:00 GMT</pubDate>
+      <guid>https://brivellis.com/insights/iso-42001-implementation-build-order/</guid>
+    </item>
     <item>
       <title>Worked example: a service catalogue an auditor can trace</title>
       <link>https://brivellis.com/insights/falcon-ridge-service-catalogue-worked-example/</link>

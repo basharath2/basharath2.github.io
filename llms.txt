@@ -17,6 +17,7 @@ Brivellis Technologies FZE LLC is an independent company. It is not affiliated w
 - [Cybersecurity Awareness Programme Kit](https://brivellis.com/resources/cybersecurity-awareness-kit/): 11 free, editable files for a planned security awareness programme, with the five pieces of evidence auditors ask for.
 - [BCMS Starter Kit for ISO 22301](https://brivellis.com/resources/bcms-starter-kit-iso-22301/): 14 free, editable files for an ISO 22301 BCMS, from business impact analysis to tested plans, with RTO and RPO checks built in.
 - [ISMS Starter Kit for ISO/IEC 27001:2022](https://brivellis.com/resources/isms-starter-kit-iso-27001/): 13 free, editable files for an ISO/IEC 27001:2022 ISMS, from scope to management review, with a 93-control SoA and a NIST CSF 2.0 crosswalk.
+- [AIMS Starter Kit for ISO/IEC 42001:2023](https://brivellis.com/resources/aims-starter-kit-iso-42001/): 16 free, editable files for an ISO/IEC 42001:2023 AIMS, from AI system inventory to management review, with an impact assessment and a 38-control SoA.
 
 ## Free templates
 
@@ -25,6 +26,7 @@ Brivellis Technologies FZE LLC is an independent company. It is not affiliated w
 - [ISO/IEC 27001 readiness checklist](https://github.com/brivellis/free-templates/releases/download/checklists-v1.0/Brivellis_Readiness_Checklist_ISO27001-2022_v1.0.xlsx): Clauses 4 to 10 and all 93 Annex A controls in one Excel workbook, with the evidence auditors ask for and a % ready heat map.
 - [ISO 22301 readiness checklist](https://github.com/brivellis/free-templates/releases/download/checklists-v1.0/Brivellis_Readiness_Checklist_ISO22301_v1.0.xlsx): Check your business continuity management system against clauses 4 to 10 in one Excel workbook, with evidence and a % ready heat map.
 - [NIST CSF 2.0 readiness checklist](https://github.com/brivellis/free-templates/releases/download/checklists-v1.0/Brivellis_Readiness_Checklist_NIST-CSF-2.0_v1.0.xlsx): All 106 NIST CSF 2.0 outcomes in one Excel workbook, with status, maturity, evidence and a % ready heat map.
+- [ISO/IEC 42001 readiness checklist](https://github.com/brivellis/free-templates/releases/download/checklists-v1.0/Brivellis_Readiness_Checklist_ISO42001-2023_v1.0.xlsx): Clauses 4 to 10 and all 38 Annex A controls in one Excel workbook, with status, maturity, evidence and a % ready heat map.
 
 ## Free courses
 
