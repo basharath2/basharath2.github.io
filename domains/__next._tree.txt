@@ -1,7 +1,7 @@
 :HL["/_next/static/chunks/3z30rsm1m4gbr.css","style"]
-:HL["/_next/static/chunks/3i1qlfc0lhj0l.css","style"]
-:HL["/_next/static/chunks/1fquoatrk02ja.css","style"]
+:HL["/_next/static/chunks/042nxe2_jcrhx.css","style"]
+:HL["/_next/static/chunks/3ptnj_lklxhhi.css","style"]
 :HL["/fonts/Manrope-VariableFont_wght.ttf","font",{"crossOrigin":"anonymous","type":"font/ttf"}]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"domains","h":96,"c":"$Q2"}]]
-0:{"b":"-uVQ98veJuy2k_dbyx8Hc","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"Cb5ZjnIx2sPgzpqF5JC0m","t":{"t":{"s":"","h":80,"c":"$Q1"}}}

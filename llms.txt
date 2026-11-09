@@ -48,4 +48,5 @@ Brivellis Technologies FZE LLC is an independent company. It is not affiliated w
 ## Articles
 
 - [All insights](https://brivellis.com/insights/) (RSS: https://brivellis.com/feed.xml)
+- [Editorial standards](https://brivellis.com/editorial-standards/): who writes and reviews, sources, labelling, corrections and independence.
 - [Responsible AI Charter](https://brivellis.com/responsible-ai/): how Brivellis uses AI and how the kits record AI help.
