@@ -1,8 +1,8 @@
-:HL["/_next/static/chunks/1jez8bsucp_oe.css","style"]
-:HL["/_next/static/chunks/3_s2j0arjpofd.css","style"]
+:HL["/_next/static/chunks/1tcrfo4x7p_iq.css","style"]
+:HL["/_next/static/chunks/0hyb5a5jtlh-5.css","style"]
 :HL["/_next/static/chunks/41f7whqcl00nk.css","style"]
 :HL["/fonts/Manrope-VariableFont_wght.ttf","font",{"crossOrigin":"anonymous","type":"font/ttf"}]
 3:[["children",{"s":"__PAGE__","h":160}]]
 2:[["children",{"s":"iso-20000-starter-kit","h":96,"c":"$Q3"}]]
 1:[["children",{"s":"resources","h":96,"c":"$Q2"}]]
-0:{"b":"j8X23FxWTVYPHfOGmZGaz","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"nltUqXRHVmZYcz_EPsrmj","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
