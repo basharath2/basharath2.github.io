@@ -6,7 +6,15 @@
     <atom:link href="https://brivellis.com/feed.xml" rel="self" type="application/rss+xml" />
     <description>Practical insights and The Brivellis Briefing on IT Service Management, Cybersecurity &amp; Compliance, Business Resilience and Governance &amp; Risk, for teams worldwide.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 07 Nov 2026 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 00:00:00 GMT</lastBuildDate>
+    <item>
+      <title>When a provider&apos;s cloud and some of its backups are wiped: lessons for your recovery plan</title>
+      <link>https://brivellis.com/insights/provider-outage-recovery-lessons/</link>
+      <description>A hosting provider lost its cloud and part of its customers&apos; backups in November 2026. Seven lessons for backup, recovery and supplier plans.</description>
+      <category>Business Resilience</category>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 GMT</pubDate>
+      <guid>https://brivellis.com/insights/provider-outage-recovery-lessons/</guid>
+    </item>
     <item>
       <title>ISO/IEC 42001 certification: what it is, how it works, and how to get ready</title>
       <link>https://brivellis.com/insights/iso-42001-certification/</link>
