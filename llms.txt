@@ -30,9 +30,9 @@ Brivellis Technologies FZE LLC is an independent company. It is not affiliated w
 
 ## Free courses
 
-- [SMS in Practice: Implementing ISO/IEC 20000-1 (Free Course)](https://brivellis.com/courses/sms/): A free video course that walks through the kit, template by template.
-- [ISMS in Practice: Implementing ISO/IEC 27001:2022 (Free Course)](https://brivellis.com/courses/isms/): A free video course that walks through the ISMS kit, template by template.
-- [BCMS in Practice: Implementing ISO 22301 with AI (Free Course)](https://brivellis.com/courses/bcms/): A free video course that walks through the BCMS kit, template by template.
+- [SMS in Practice: Implementing ISO/IEC 20000-1 (Free Course)](https://brivellis.com/courses/sms/#watch): A free video course that walks through the kit, template by template.
+- [ISMS in Practice: Implementing ISO/IEC 27001:2022 (Free Course)](https://brivellis.com/courses/isms/#watch): A free video course that walks through the ISMS kit, template by template.
+- [BCMS in Practice: Implementing ISO 22301 with AI (Free Course)](https://brivellis.com/courses/bcms/#watch): A free video course that walks through the BCMS kit, template by template.
 
 ## Free tools
 
