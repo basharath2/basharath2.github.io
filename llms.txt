@@ -38,6 +38,7 @@ Brivellis Technologies FZE LLC is an independent company. It is not affiliated w
 
 - [Technology Readiness Check](https://brivellis.com/resources/readiness-assessment/): Assess strategic alignment, foundations, governance, delivery, skills, and measurement.
 - [Initiative Prioritizer](https://brivellis.com/resources/initiative-prioritizer/): Compare three technology initiatives using value, urgency, confidence, effort, and risk.
+- [Your CPD record](https://brivellis.com/resources/cpd-record/): Play the free course lessons on brivellis.com and save the ones you complete as your own CPD record (PDF).
 
 ## Guides
 
