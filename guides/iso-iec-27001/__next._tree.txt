@@ -1,8 +1,8 @@
 :HL["/_next/static/chunks/15mct4vmfqxft.css","style"]
-:HL["/_next/static/chunks/41tgdlqte44ob.css","style"]
+:HL["/_next/static/chunks/15doichs8dlkq.css","style"]
 :HL["/_next/static/chunks/1mt60lkj05en-.css","style"]
 :HL["/fonts/Manrope-VariableFont_wght.ttf","font",{"crossOrigin":"anonymous","type":"font/ttf"}]
 3:[["children",{"s":"__PAGE__","h":160}]]
 2:[["children",{"s":{"n":"slug","t":"d","k":"iso-iec-27001","s":[]},"h":65632,"c":"$Q3"}]]
 1:[["children",{"s":"guides","h":131168,"c":"$Q2"}]]
-0:{"b":"1uiN7iBbezqILLvFEG2g1","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
+0:{"b":"0X6i9OYEWFoXZsob14S75","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
