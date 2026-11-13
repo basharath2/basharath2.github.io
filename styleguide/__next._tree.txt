@@ -1,8 +1,8 @@
 :HL["/_next/static/chunks/15mct4vmfqxft.css","style"]
 :HL["/_next/static/chunks/15doichs8dlkq.css","style"]
 :HL["/_next/static/chunks/1mt60lkj05en-.css","style"]
-:HL["/_next/static/chunks/0-zr2xluz46ge.css","style"]
+:HL["/_next/static/chunks/22y5u1yjkh2ik.css","style"]
 :HL["/fonts/Manrope-VariableFont_wght.ttf","font",{"crossOrigin":"anonymous","type":"font/ttf"}]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"styleguide","h":96,"c":"$Q2"}]]
-0:{"b":"0X6i9OYEWFoXZsob14S75","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"1frguGtBcaKY32kIDIXo0","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
