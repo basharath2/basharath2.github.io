@@ -1,8 +1,8 @@
 :HL["/_next/static/chunks/15mct4vmfqxft.css","style"]
-:HL["/_next/static/chunks/0bawipy6_38ds.css","style"]
+:HL["/_next/static/chunks/3bnugp59yq10r.css","style"]
 :HL["/_next/static/chunks/1mt60lkj05en-.css","style"]
 :HL["/fonts/Manrope-VariableFont_wght.ttf","font",{"crossOrigin":"anonymous","type":"font/ttf"}]
 3:[["children",{"s":"__PAGE__","h":160}]]
 2:[["children",{"s":"provider-outage-recovery-lessons","h":96,"c":"$Q3"}]]
 1:[["children",{"s":"insights","h":96,"c":"$Q2"}]]
-0:{"b":"JosNZRTyrfUBtAR-9yLeu","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"6bzAJqBqCZbU_phlWOxht","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
