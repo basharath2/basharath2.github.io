@@ -2,4 +2,4 @@
 :HL["/_next/static/chunks/3bnugp59yq10r.css","style"]
 :HL["/fonts/Manrope-VariableFont_wght.ttf","font",{"crossOrigin":"anonymous","type":"font/ttf"}]
 1:[["children",{"s":"__PAGE__","h":160}]]
-0:{"b":"6bzAJqBqCZbU_phlWOxht","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"0DrDxwppiAW519_tiyWu_","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
