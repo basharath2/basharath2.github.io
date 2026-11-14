@@ -1,8 +1,8 @@
 :HL["/_next/static/chunks/15mct4vmfqxft.css","style"]
-:HL["/_next/static/chunks/15doichs8dlkq.css","style"]
+:HL["/_next/static/chunks/0bawipy6_38ds.css","style"]
 :HL["/_next/static/chunks/1mt60lkj05en-.css","style"]
 :HL["/fonts/Manrope-VariableFont_wght.ttf","font",{"crossOrigin":"anonymous","type":"font/ttf"}]
 3:[["children",{"s":"__PAGE__","h":160}]]
 2:[["children",{"s":"bia-rto-rpo-business-continuity","h":96,"c":"$Q3"}]]
 1:[["children",{"s":"insights","h":96,"c":"$Q2"}]]
-0:{"b":"4XD9dGLXiKR5dQ5852FLu","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"rvC1bObIrCcRZ0sf9gVub","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
