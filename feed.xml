@@ -6,7 +6,15 @@
     <atom:link href="https://brivellis.com/feed.xml" rel="self" type="application/rss+xml" />
     <description>Practical insights and The Brivellis Briefing on IT Service Management, Cybersecurity &amp; Compliance, Business Resilience and Governance &amp; Risk, for teams worldwide.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 10 Nov 2026 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 00:00:00 GMT</lastBuildDate>
+    <item>
+      <title>ISO/IEC 27001 audit questions: ten things auditors ask your team, and answers that hold up</title>
+      <link>https://brivellis.com/insights/iso-27001-audit-questions/</link>
+      <description>The ten ISO 27001 audit questions auditors ask most: what each tests, the weak answer to avoid, the answer that holds up and the record to show.</description>
+      <category>Cybersecurity &amp; Compliance</category>
+      <pubDate>Sat, 14 Nov 2026 00:00:00 GMT</pubDate>
+      <guid>https://brivellis.com/insights/iso-27001-audit-questions/</guid>
+    </item>
     <item>
       <title>When a provider&apos;s cloud and some of its backups are wiped: lessons for your recovery plan</title>
       <link>https://brivellis.com/insights/provider-outage-recovery-lessons/</link>
