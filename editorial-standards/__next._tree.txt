@@ -1,6 +1,6 @@
 :HL["/_next/static/chunks/2o_nyqqervom4.css","style"]
-:HL["/_next/static/chunks/1q05tasaf6nzw.css","style"]
+:HL["/_next/static/chunks/2hhg0buj8ftgz.css","style"]
 :HL["/fonts/Manrope-VariableFont_wght.ttf","font",{"crossOrigin":"anonymous","type":"font/ttf"}]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"editorial-standards","h":96,"c":"$Q2"}]]
-0:{"b":"L2MoZjDsr4th1N76Ia4e1","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"Kbu3nB7miJr0JQj4WQ3Wn","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
