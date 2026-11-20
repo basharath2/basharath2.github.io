@@ -6,7 +6,15 @@
     <atom:link href="https://brivellis.com/feed.xml" rel="self" type="application/rss+xml" />
     <description>Practical insights and The Brivellis Briefing on IT Service Management, Cybersecurity &amp; Compliance, Business Resilience and Governance &amp; Risk, for teams worldwide.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 14 Nov 2026 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 00:00:00 GMT</lastBuildDate>
+    <item>
+      <title>ISO 27002 control attributes, explained</title>
+      <link>https://brivellis.com/insights/iso-27002-control-attributes/</link>
+      <description>The five ISO/IEC 27002:2022 control attributes in plain words, how to add them to your Statement of Applicability, and where ISO/IEC 27028:2026 fits.</description>
+      <category>Cybersecurity &amp; Compliance</category>
+      <pubDate>Fri, 20 Nov 2026 00:00:00 GMT</pubDate>
+      <guid>https://brivellis.com/insights/iso-27002-control-attributes/</guid>
+    </item>
     <item>
       <title>The Brivellis Briefing, Issue 2 · 14 November 2026: An AI management system in build order, and when the provider’s backups go too</title>
       <link>https://brivellis.com/newsletter/issue-02/</link>

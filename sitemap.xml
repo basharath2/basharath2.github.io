@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>https://brivellis.com/</loc>
-<lastmod>2026-11-14</lastmod>
+<lastmod>2026-11-20</lastmod>
 </url>
 <url>
 <loc>https://brivellis.com/domains/</loc>
@@ -10,7 +10,7 @@
 </url>
 <url>
 <loc>https://brivellis.com/insights/</loc>
-<lastmod>2026-11-14</lastmod>
+<lastmod>2026-11-20</lastmod>
 </url>
 <url>
 <loc>https://brivellis.com/resources/</loc>
@@ -90,7 +90,7 @@
 </url>
 <url>
 <loc>https://brivellis.com/domains/cybersecurity-compliance/</loc>
-<lastmod>2026-11-14</lastmod>
+<lastmod>2026-11-20</lastmod>
 </url>
 <url>
 <loc>https://brivellis.com/domains/business-resilience/</loc>
@@ -199,6 +199,10 @@
 <url>
 <loc>https://brivellis.com/courses/bcms/module-7-practice-and-capstone/</loc>
 <lastmod>2026-11-06</lastmod>
+</url>
+<url>
+<loc>https://brivellis.com/insights/iso-27002-control-attributes/</loc>
+<lastmod>2026-11-20</lastmod>
 </url>
 <url>
 <loc>https://brivellis.com/insights/iso-27001-interview-questions/</loc>
