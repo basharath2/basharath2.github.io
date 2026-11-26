@@ -39,6 +39,7 @@ Brivellis Technologies FZE LLC is an independent company. It is not affiliated w
 - [Technology Readiness Check](https://brivellis.com/resources/readiness-assessment/): Assess strategic alignment, foundations, governance, delivery, skills, and measurement.
 - [Initiative Prioritizer](https://brivellis.com/resources/initiative-prioritizer/): Compare three technology initiatives using value, urgency, confidence, effort, and risk.
 - [Your CPD record](https://brivellis.com/resources/cpd-record/): Play the free course lessons on brivellis.com and save the ones you complete as your own CPD record (PDF).
+- [Which GRC path fits you?](https://brivellis.com/resources/learning-path/): A five-question quiz and four free learning paths, from readiness checklist to capstone.
 - [SoA dashboard for ISO/IEC 27001:2022](https://brivellis.com/resources/soa-dashboard/): Open your Statement of Applicability (the kit's or your own) and see which controls still need an owner, evidence or a decision. Nothing is uploaded.
 
 ## Guides
